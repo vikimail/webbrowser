@@ -9,7 +9,7 @@ incase add 11th value it will oocupied in 6th position
 Growthrate= currentsize/2
 default value of boolean is false
 
-
+quite = to close all active windows
 
 
 
