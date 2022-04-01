@@ -1,0 +1,15 @@
+version control tool - maven,github
+
+legacy classes- vector,stack,hashtable
+
+default size of arraylist or list - 10
+
+how to extend default size of array(10)-currentsize/2
+incase add 11th value it will oocupied in 6th position
+Growthrate= currentsize/2
+
+
+
+
+
+
